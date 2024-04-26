@@ -1,0 +1,10 @@
+{
+	"name": "ls_ci_cd_demo_key_v18",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://dev-ci-cd-demo-key-v18.vault.azure.net/"
+		}
+	}
+}
